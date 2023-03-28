@@ -126,7 +126,7 @@ class _HomePageState extends State<HomePage> {
         content: const Text(
           'Success',
           textAlign: TextAlign.center,
-          style: TextStyle(color: Colors.white,fontSize: 18),
+          style: TextStyle(color: Colors.white, fontSize: 18),
         ),
         duration: const Duration(seconds: 2),
         elevation: 5,

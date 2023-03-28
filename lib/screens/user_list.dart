@@ -37,7 +37,6 @@ class _UserListState extends State<UserList> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-
       appBar: AppBar(
         automaticallyImplyLeading: false,
         title: !searchBoolean ? const Text("Users") : searchTextField(),

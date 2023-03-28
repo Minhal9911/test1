@@ -1,4 +1,3 @@
-import 'package:demo_userlist/screens/direcotry_screen.dart';
 import 'package:demo_userlist/screens/home_page.dart';
 import 'package:flutter/material.dart';
 
